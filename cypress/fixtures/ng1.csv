@@ -1,0 +1,51 @@
+nationality,passportType,visaType
+JORDAN,DIPLOMATIC,Reciprocity 90 Days
+EGYPT,DIPLOMATIC,Reciprocity 90 Days
+EGYPT,PRIVATE,Reciprocity 90 Days
+EGYPT,ASSIGNMENT,Reciprocity 90 Days
+EGYPT,Official Passport,Reciprocity 90 Days
+EGYPT,Service Passport,Reciprocity 90 Days
+TUNISIA,DIPLOMATIC,Reciprocity 90 Days
+TUNISIA,PRIVATE,Reciprocity 90 Days
+TUNISIA,ASSIGNMENT,Reciprocity 90 Days
+TUNISIA,Official Passport,Reciprocity 90 Days
+TUNISIA,Service Passport,Reciprocity 90 Days
+ALGERIA,DIPLOMATIC,Reciprocity 90 Days
+ALGERIA,PRIVATE,Reciprocity 90 Days
+ALGERIA,ASSIGNMENT,Reciprocity 90 Days
+ALGERIA,Official Passport,Reciprocity 90 Days
+ALGERIA,Service Passport,Reciprocity 90 Days
+MOROCCO,DIPLOMATIC,Reciprocity 90 Days
+MOROCCO,PRIVATE,Reciprocity 90 Days
+MOROCCO,ASSIGNMENT,Reciprocity 90 Days
+MOROCCO,Official Passport,Reciprocity 90 Days
+MOROCCO,Service Passport,Reciprocity 90 Days
+MAURITANIA,DIPLOMATIC,Reciprocity 30 Days
+MAURITANIA,PRIVATE,Reciprocity 30 Days
+INDIA,DIPLOMATIC,Reciprocity 90 Days
+INDIA,PRIVATE,Reciprocity 90 Days
+INDIA,TEMPORARY,Indians - US UK EU permits
+INDIA,ASSIGNMENT,Indians - US UK EU permits
+INDIA,MARITIME,Indians - US UK EU permits
+INDIA,TRAVEL DOC,Indians - US UK EU permits
+INDIA,RETURN PASS,Indians - US UK EU permits
+INDIA,Normal New,Indians - US UK EU permits
+INDIA,Crew Passport,Indians - US UK EU permits
+INDIA,Egyptian travel document,Indians - US UK EU permits
+INDIA,The Lebanese travel document,Indians - US UK EU permits
+INDIA,Diplomatic card,Indians - US UK EU permits
+INDIA,Official Passport,Reciprocity 90 Days
+INDIA,Service Passport,Indians - US UK EU permits
+INDIA,Passport for Public Affairs,Indians - US UK EU permits
+CHINA,NORMAL,On Arival
+CHINA,DIPLOMATIC,Reciprocity 90 Days
+CHINA,Service Passport,Reciprocity 90 Days
+CHINA,Passport for Public Affairs,Reciprocity 90 Days
+HONG KONG,NORMAL,On Arival
+HONG KONG,DIPLOMATIC,Reciprocity 90 Days
+HONG KONG,PRIVATE,Reciprocity 90 Days
+HONG KONG,Official Passport,Reciprocity 90 Days
+SINGAPORE,NORMAL,On Arival
+SINGAPORE,DIPLOMATIC,Reciprocity 90 Days
+SINGAPORE,PRIVATE,Reciprocity 90 Days
+SINGAPORE,Official Passport,Reciprocity 90 Days

@@ -1,0 +1,51 @@
+nationality,passportType,visaType
+SINGAPORE,Official Passport,Reciprocity 90 Days
+The Republic of Korea,NORMAL,Reciprocity 90 Days
+The Republic of Korea,DIPLOMATIC,Reciprocity 90 Days
+The Republic of Korea,PRIVATE,Reciprocity 90 Days
+The Republic of Korea,Official Passport,Reciprocity 90 Days
+JAPAN,NORMAL,On Arival
+JAPAN,DIPLOMATIC,Reciprocity 90 Days
+JAPAN,Official Passport,Reciprocity 90 Days
+VIETNAM,DIPLOMATIC,Reciprocity 90 Days
+VIETNAM,PRIVATE,Reciprocity 90 Days
+VIETNAM,ASSIGNMENT,Reciprocity 90 Days
+VIETNAM,Official Passport,Reciprocity 90 Days
+VIETNAM,Service Passport,Reciprocity 90 Days
+THAILAND,DIPLOMATIC,Reciprocity 90 Days
+THAILAND,Official Passport,Reciprocity 90 Days
+MALAYSIA,NORMAL,On Arival
+MALAYSIA,DIPLOMATIC,Reciprocity 90 Days
+MALAYSIA,PRIVATE,Reciprocity 90 Days
+MALAYSIA,Official Passport,Reciprocity 90 Days
+INDONESIA,DIPLOMATIC,Reciprocity 90 Days
+INDONESIA,PRIVATE,Reciprocity 90 Days
+INDONESIA,ASSIGNMENT,Reciprocity 90 Days
+INDONESIA,Official Passport,Reciprocity 90 Days
+INDONESIA,Service Passport,Reciprocity 90 Days
+BRUNEI,NORMAL,On Arival
+BRUNEI,DIPLOMATIC,Reciprocity 90 Days
+BRUNEI,PRIVATE,Reciprocity 90 Days
+BRUNEI,Official Passport,Reciprocity 90 Days
+Tonga,DIPLOMATIC,Reciprocity 60 Days
+Tonga,Official Passport,Reciprocity 60 Days
+Maldives,NORMAL,Reciprocity 90 Days
+Maldives,DIPLOMATIC,Reciprocity 90 Days
+Maldives,Official Passport,Reciprocity 90 Days
+MACAU,NORMAL,On Arival
+KAZAKHSTAN,NORMAL,On Arival
+KAZAKHSTAN,DIPLOMATIC,Reciprocity 90 Days
+KAZAKHSTAN,Service Passport,Reciprocity 90 Days
+ARMENIA,DIPLOMATIC,Reciprocity 90 Days
+AZERBAIJAN,DIPLOMATIC,Reciprocity 90 Days
+AZERBAIJAN,PRIVATE,Reciprocity 90 Days
+AZERBAIJAN,Official Passport,Reciprocity 90 Days
+AZERBAIJAN,Service Passport,96 Hrs
+TAJIKISTAN,DIPLOMATIC,Reciprocity 90 Days
+TAJIKISTAN,Service Passport,Reciprocity 90 Days
+TURKMENISTAN,DIPLOMATIC,Reciprocity 30 Days
+TURKMENISTAN,Service Passport,Reciprocity 30 Days
+UZBEKISTAN,DIPLOMATIC,European Nationals (Schengen)
+GEORGIA,NORMAL,Reciprocity 90 Days
+GEORGIA,DIPLOMATIC,Reciprocity 90 Days
+GEORGIA,Service Passport,Reciprocity 90 Days

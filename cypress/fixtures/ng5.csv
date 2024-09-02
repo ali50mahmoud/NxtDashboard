@@ -1,0 +1,51 @@
+nationality,passportType,visaType
+NORWAY,Official Passport,Reciprocity 90 Days
+NORWAY,Service Passport,Reciprocity 90 Days
+Denmark,NORMAL,European Nationals (Schengen)
+Denmark,DIPLOMATIC,Reciprocity 90 Days
+Denmark,PRIVATE,Reciprocity 90 Days
+Denmark,ASSIGNMENT,Reciprocity 90 Days
+Denmark,Official Passport,Reciprocity 90 Days
+Denmark,Service Passport,Reciprocity 90 Days
+PORTUGAL,NORMAL,European Nationals (Schengen)
+PORTUGAL,DIPLOMATIC,Reciprocity 90 Days
+PORTUGAL,PRIVATE,Reciprocity 90 Days
+PORTUGAL,ASSIGNMENT,Reciprocity 90 Days
+PORTUGAL,Official Passport,Reciprocity 90 Days
+PORTUGAL,Service Passport,Reciprocity 90 Days
+IRELAND,NORMAL,On Arival
+IRELAND,DIPLOMATIC,Reciprocity 30 Days
+IRELAND,Official Passport,96 Hrs
+GREECE,NORMAL,European Nationals (Schengen)
+GREECE,DIPLOMATIC,Reciprocity 90 Days
+GREECE,PRIVATE,Reciprocity 90 Days
+GREECE,ASSIGNMENT,Reciprocity 90 Days
+GREECE,Official Passport,Reciprocity 90 Days
+GREECE,Service Passport,Reciprocity 90 Days
+CYPRUS,NORMAL,European Nationals (Schengen)
+CYPRUS,DIPLOMATIC,Reciprocity 90 Days
+CYPRUS,PRIVATE,Reciprocity 90 Days
+CYPRUS,ASSIGNMENT,Reciprocity 90 Days
+CYPRUS,Official Passport,Reciprocity 90 Days
+CYPRUS,Service Passport,Reciprocity 90 Days
+FINLAND,NORMAL,European Nationals (Schengen)
+FINLAND,DIPLOMATIC,Reciprocity 90 Days
+FINLAND,PRIVATE,Reciprocity 90 Days
+FINLAND,ASSIGNMENT,Reciprocity 90 Days
+FINLAND,Official Passport,Reciprocity 90 Days
+FINLAND,Service Passport,Reciprocity 90 Days
+MALTA,NORMAL,European Nationals (Schengen)
+MALTA,DIPLOMATIC,Reciprocity 90 Days
+MALTA,PRIVATE,Reciprocity 90 Days
+MALTA,ASSIGNMENT,Reciprocity 90 Days
+MALTA,Official Passport,Reciprocity 90 Days
+MALTA,Service Passport,Reciprocity 90 Days
+SPAIN,NORMAL,European Nationals (Schengen)
+SPAIN,DIPLOMATIC,Reciprocity 90 Days
+SPAIN,PRIVATE,Reciprocity 90 Days
+SPAIN,ASSIGNMENT,Reciprocity 90 Days
+SPAIN,Official Passport,Reciprocity 90 Days
+SPAIN,Service Passport,Reciprocity 90 Days
+MONACO,NORMAL,On Arival
+VATICAN,NORMAL,96 Hrs
+VATICAN,DIPLOMATIC,96 Hrs

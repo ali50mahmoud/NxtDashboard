@@ -1,0 +1,439 @@
+nationality,passportType,visaType
+JORDAN,DIPLOMATIC,Reciprocity 90 Days
+EGYPT,DIPLOMATIC,Reciprocity 90 Days
+EGYPT,PRIVATE,Reciprocity 90 Days
+EGYPT,ASSIGNMENT,Reciprocity 90 Days
+EGYPT,Official Passport,Reciprocity 90 Days
+EGYPT,Service Passport,Reciprocity 90 Days
+TUNISIA,DIPLOMATIC,Reciprocity 90 Days
+TUNISIA,PRIVATE,Reciprocity 90 Days
+TUNISIA,ASSIGNMENT,Reciprocity 90 Days
+TUNISIA,Official Passport,Reciprocity 90 Days
+TUNISIA,Service Passport,Reciprocity 90 Days
+ALGERIA,DIPLOMATIC,Reciprocity 90 Days
+ALGERIA,PRIVATE,Reciprocity 90 Days
+ALGERIA,ASSIGNMENT,Reciprocity 90 Days
+ALGERIA,Official Passport,Reciprocity 90 Days
+ALGERIA,Service Passport,Reciprocity 90 Days
+MOROCCO,DIPLOMATIC,Reciprocity 90 Days
+MOROCCO,PRIVATE,Reciprocity 90 Days
+MOROCCO,ASSIGNMENT,Reciprocity 90 Days
+MOROCCO,Official Passport,Reciprocity 90 Days
+MOROCCO,Service Passport,Reciprocity 90 Days
+MAURITANIA,DIPLOMATIC,Reciprocity 30 Days
+MAURITANIA,PRIVATE,Reciprocity 30 Days
+INDIA,DIPLOMATIC,Reciprocity 90 Days
+INDIA,PRIVATE,Reciprocity 90 Days
+INDIA,TEMPORARY,Indians - US UK EU permits
+INDIA,ASSIGNMENT,Indians - US UK EU permits
+INDIA,MARITIME,Indians - US UK EU permits
+INDIA,TRAVEL DOC,Indians - US UK EU permits
+INDIA,RETURN PASS,Indians - US UK EU permits
+INDIA,Normal New,Indians - US UK EU permits
+INDIA,Crew Passport,Indians - US UK EU permits
+INDIA,Egyptian travel document,Indians - US UK EU permits
+INDIA,The Lebanese travel document,Indians - US UK EU permits
+INDIA,Diplomatic card,Indians - US UK EU permits
+INDIA,Official Passport,Reciprocity 90 Days
+INDIA,Service Passport,Indians - US UK EU permits
+INDIA,Passport for Public Affairs,Indians - US UK EU permits
+CHINA,NORMAL,On Arival
+CHINA,DIPLOMATIC,Reciprocity 90 Days
+CHINA,Service Passport,Reciprocity 90 Days
+CHINA,Passport for Public Affairs,Reciprocity 90 Days
+HONG KONG,NORMAL,On Arival
+HONG KONG,DIPLOMATIC,Reciprocity 90 Days
+HONG KONG,PRIVATE,Reciprocity 90 Days
+HONG KONG,Official Passport,Reciprocity 90 Days
+SINGAPORE,NORMAL,On Arival
+SINGAPORE,DIPLOMATIC,Reciprocity 90 Days
+SINGAPORE,PRIVATE,Reciprocity 90 Days
+SINGAPORE,Official Passport,Reciprocity 90 Days
+The Republic of Korea,NORMAL,Reciprocity 90 Days
+The Republic of Korea,DIPLOMATIC,Reciprocity 90 Days
+The Republic of Korea,PRIVATE,Reciprocity 90 Days
+The Republic of Korea,Official Passport,Reciprocity 90 Days
+JAPAN,NORMAL,On Arival
+JAPAN,DIPLOMATIC,Reciprocity 90 Days
+JAPAN,Official Passport,Reciprocity 90 Days
+VIETNAM,DIPLOMATIC,Reciprocity 90 Days
+VIETNAM,PRIVATE,Reciprocity 90 Days
+VIETNAM,ASSIGNMENT,Reciprocity 90 Days
+VIETNAM,Official Passport,Reciprocity 90 Days
+VIETNAM,Service Passport,Reciprocity 90 Days
+THAILAND,DIPLOMATIC,Reciprocity 90 Days
+THAILAND,Official Passport,Reciprocity 90 Days
+MALAYSIA,NORMAL,On Arival
+MALAYSIA,DIPLOMATIC,Reciprocity 90 Days
+MALAYSIA,PRIVATE,Reciprocity 90 Days
+MALAYSIA,Official Passport,Reciprocity 90 Days
+INDONESIA,DIPLOMATIC,Reciprocity 90 Days
+INDONESIA,PRIVATE,Reciprocity 90 Days
+INDONESIA,ASSIGNMENT,Reciprocity 90 Days
+INDONESIA,Official Passport,Reciprocity 90 Days
+INDONESIA,Service Passport,Reciprocity 90 Days
+BRUNEI,NORMAL,On Arival
+BRUNEI,DIPLOMATIC,Reciprocity 90 Days
+BRUNEI,PRIVATE,Reciprocity 90 Days
+BRUNEI,Official Passport,Reciprocity 90 Days
+Tonga,DIPLOMATIC,Reciprocity 60 Days
+Tonga,Official Passport,Reciprocity 60 Days
+Maldives,NORMAL,Reciprocity 90 Days
+Maldives,DIPLOMATIC,Reciprocity 90 Days
+Maldives,Official Passport,Reciprocity 90 Days
+MACAU,NORMAL,On Arival
+KAZAKHSTAN,NORMAL,On Arival
+KAZAKHSTAN,DIPLOMATIC,Reciprocity 90 Days
+KAZAKHSTAN,Service Passport,Reciprocity 90 Days
+ARMENIA,DIPLOMATIC,Reciprocity 90 Days
+AZERBAIJAN,DIPLOMATIC,Reciprocity 90 Days
+AZERBAIJAN,PRIVATE,Reciprocity 90 Days
+AZERBAIJAN,Official Passport,Reciprocity 90 Days
+AZERBAIJAN,Service Passport,96 Hrs
+TAJIKISTAN,DIPLOMATIC,Reciprocity 90 Days
+TAJIKISTAN,Service Passport,Reciprocity 90 Days
+TURKMENISTAN,DIPLOMATIC,Reciprocity 30 Days
+TURKMENISTAN,Service Passport,Reciprocity 30 Days
+UZBEKISTAN,DIPLOMATIC,European Nationals (Schengen)
+GEORGIA,NORMAL,Reciprocity 90 Days
+GEORGIA,DIPLOMATIC,Reciprocity 90 Days
+GEORGIA,Service Passport,Reciprocity 90 Days
+ISRAEL,NORMAL,European Nationals (Schengen)
+ISRAEL,DIPLOMATIC,European Nationals (Schengen)
+ISRAEL,Service Passport,European Nationals (Schengen)
+BURUNDI,DIPLOMATIC,96 Hrs
+CAMEROON,DIPLOMATIC,Reciprocity 30 Days
+CAMEROON,Service Passport,Reciprocity 30 Days
+CHAD,DIPLOMATIC,Reciprocity 90 Days
+Congo,DIPLOMATIC,Reciprocity 30 Days
+Congo,Service Passport,96 Hrs
+ETHIOPIA,DIPLOMATIC,Reciprocity 90 Days
+GHANA,DIPLOMATIC,Reciprocity 90 Days
+GHANA,Service Passport,Reciprocity 90 Days
+Republic of Guinea,DIPLOMATIC,Reciprocity 90 Days
+LIBERIA,DIPLOMATIC,Reciprocity 30 Days
+MALI,DIPLOMATIC,Reciprocity 90 Days
+MALI,ASSIGNMENT,Reciprocity 90 Days
+NIGER,DIPLOMATIC,Reciprocity 30 Days
+RWANDA,DIPLOMATIC,Reciprocity 90 Days
+RWANDA,Service Passport,Reciprocity 90 Days
+SENEGAL,DIPLOMATIC,Reciprocity 90 Days
+SIERRA LEONE,DIPLOMATIC,Reciprocity 30 Days
+Burkina Faso,DIPLOMATIC,Reciprocity 90 Days
+Burkina Faso,Service Passport,Reciprocity 90 Days
+ZAMBIA,DIPLOMATIC,Reciprocity 30 Days
+Democratic Republic of the Congo,DIPLOMATIC,96 Hrs
+CENTRAL AFRICAN REPUBLIC,DIPLOMATIC,Reciprocity 90 Days
+CENTRAL AFRICAN REPUBLIC,Service Passport,Reciprocity 90 Days
+MAURITIUS,NORMAL,On Arrival Mauritius
+MAURITIUS,DIPLOMATIC,Reciprocity 90 Days
+GABON,DIPLOMATIC,Reciprocity 90 Days
+GABON,Service Passport,Reciprocity 90 Days
+SEYCHELLES,NORMAL,Seychelles Citizens Visa
+SEYCHELLES,DIPLOMATIC,Seychelles Citizens Visa
+SEYCHELLES,Official Passport,Seychelles Citizens Visa
+SEYCHELLES,Service Passport,Seychelles Citizens Visa
+KIRIBATI,NORMAL,Reciprocity 90 Days
+KIRIBATI,DIPLOMATIC,Reciprocity 90 Days
+KIRIBATI,Official Passport,Reciprocity 90 Days
+BRITAIN,NORMAL,On Arival
+BRITAIN,DIPLOMATIC,Reciprocity 90 Days
+BRITAIN,PRIVATE,Reciprocity 90 Days
+BRITAIN,Official Passport,Reciprocity 90 Days
+FRANCE,NORMAL,European Nationals (Schengen)
+FRANCE,DIPLOMATIC,Reciprocity 90 Days
+FRANCE,PRIVATE,Reciprocity 90 Days
+FRANCE,ASSIGNMENT,Reciprocity 90 Days
+FRANCE,Official Passport,Reciprocity 90 Days
+FRANCE,Service Passport,Reciprocity 90 Days
+ITALY,NORMAL,European Nationals (Schengen)
+ITALY,DIPLOMATIC,Reciprocity 90 Days
+ITALY,PRIVATE,Reciprocity 90 Days
+ITALY,ASSIGNMENT,Reciprocity 90 Days
+ITALY,Official Passport,Reciprocity 90 Days
+ITALY,Service Passport,Reciprocity 90 Days
+GERMANY,NORMAL,European Nationals (Schengen)
+GERMANY,DIPLOMATIC,Reciprocity 90 Days
+GERMANY,PRIVATE,Reciprocity 90 Days
+GERMANY,ASSIGNMENT,Reciprocity 90 Days
+GERMANY,Official Passport,Reciprocity 90 Days
+GERMANY,Service Passport,Reciprocity 90 Days
+HOLLAND,NORMAL,European Nationals (Schengen)
+HOLLAND,DIPLOMATIC,Reciprocity 90 Days
+HOLLAND,PRIVATE,Reciprocity 90 Days
+HOLLAND,ASSIGNMENT,Reciprocity 90 Days
+HOLLAND,Official Passport,Reciprocity 90 Days
+HOLLAND,Service Passport,Reciprocity 90 Days
+BELGIUM,NORMAL,European Nationals (Schengen)
+BELGIUM,DIPLOMATIC,Reciprocity 90 Days
+BELGIUM,PRIVATE,Reciprocity 90 Days
+BELGIUM,ASSIGNMENT,Reciprocity 90 Days
+BELGIUM,Official Passport,Reciprocity 90 Days
+BELGIUM,Service Passport,Reciprocity 90 Days
+LUXEMBOURG,NORMAL,European Nationals (Schengen)
+LUXEMBOURG,DIPLOMATIC,Reciprocity 90 Days
+LUXEMBOURG,PRIVATE,Reciprocity 90 Days
+LUXEMBOURG,ASSIGNMENT,Reciprocity 90 Days
+LUXEMBOURG,Official Passport,Reciprocity 90 Days
+LUXEMBOURG,Service Passport,Reciprocity 90 Days
+SWITZERLAND,NORMAL,European Nationals (Schengen)
+SWITZERLAND,DIPLOMATIC,Reciprocity 90 Days
+SWITZERLAND,PRIVATE,Reciprocity 90 Days
+SWITZERLAND,ASSIGNMENT,Reciprocity 90 Days
+SWITZERLAND,Official Passport,Reciprocity 90 Days
+SWITZERLAND,Service Passport,Reciprocity 90 Days
+AUSTRIA,NORMAL,European Nationals (Schengen)
+AUSTRIA,DIPLOMATIC,Reciprocity 90 Days
+AUSTRIA,PRIVATE,Reciprocity 90 Days
+AUSTRIA,ASSIGNMENT,Reciprocity 90 Days
+AUSTRIA,Official Passport,Reciprocity 90 Days
+AUSTRIA,Service Passport,Reciprocity 90 Days
+SWEDEN,NORMAL,European Nationals (Schengen)
+SWEDEN,DIPLOMATIC,Reciprocity 90 Days
+SWEDEN,PRIVATE,Reciprocity 90 Days
+SWEDEN,ASSIGNMENT,Reciprocity 90 Days
+SWEDEN,Official Passport,Reciprocity 90 Days
+SWEDEN,Service Passport,Reciprocity 90 Days
+NORWAY,NORMAL,European Nationals (Schengen)
+NORWAY,DIPLOMATIC,Reciprocity 90 Days
+NORWAY,PRIVATE,Reciprocity 90 Days
+NORWAY,ASSIGNMENT,Reciprocity 90 Days
+NORWAY,Official Passport,Reciprocity 90 Days
+NORWAY,Service Passport,Reciprocity 90 Days
+Denmark,NORMAL,European Nationals (Schengen)
+Denmark,DIPLOMATIC,Reciprocity 90 Days
+Denmark,PRIVATE,Reciprocity 90 Days
+Denmark,ASSIGNMENT,Reciprocity 90 Days
+Denmark,Official Passport,Reciprocity 90 Days
+Denmark,Service Passport,Reciprocity 90 Days
+PORTUGAL,NORMAL,European Nationals (Schengen)
+PORTUGAL,DIPLOMATIC,Reciprocity 90 Days
+PORTUGAL,PRIVATE,Reciprocity 90 Days
+PORTUGAL,ASSIGNMENT,Reciprocity 90 Days
+PORTUGAL,Official Passport,Reciprocity 90 Days
+PORTUGAL,Service Passport,Reciprocity 90 Days
+IRELAND,NORMAL,On Arival
+IRELAND,DIPLOMATIC,Reciprocity 30 Days
+IRELAND,Official Passport,96 Hrs
+GREECE,NORMAL,European Nationals (Schengen)
+GREECE,DIPLOMATIC,Reciprocity 90 Days
+GREECE,PRIVATE,Reciprocity 90 Days
+GREECE,ASSIGNMENT,Reciprocity 90 Days
+GREECE,Official Passport,Reciprocity 90 Days
+GREECE,Service Passport,Reciprocity 90 Days
+CYPRUS,NORMAL,European Nationals (Schengen)
+CYPRUS,DIPLOMATIC,Reciprocity 90 Days
+CYPRUS,PRIVATE,Reciprocity 90 Days
+CYPRUS,ASSIGNMENT,Reciprocity 90 Days
+CYPRUS,Official Passport,Reciprocity 90 Days
+CYPRUS,Service Passport,Reciprocity 90 Days
+FINLAND,NORMAL,European Nationals (Schengen)
+FINLAND,DIPLOMATIC,Reciprocity 90 Days
+FINLAND,PRIVATE,Reciprocity 90 Days
+FINLAND,ASSIGNMENT,Reciprocity 90 Days
+FINLAND,Official Passport,Reciprocity 90 Days
+FINLAND,Service Passport,Reciprocity 90 Days
+MALTA,NORMAL,European Nationals (Schengen)
+MALTA,DIPLOMATIC,Reciprocity 90 Days
+MALTA,PRIVATE,Reciprocity 90 Days
+MALTA,ASSIGNMENT,Reciprocity 90 Days
+MALTA,Official Passport,Reciprocity 90 Days
+MALTA,Service Passport,Reciprocity 90 Days
+SPAIN,NORMAL,European Nationals (Schengen)
+SPAIN,DIPLOMATIC,Reciprocity 90 Days
+SPAIN,PRIVATE,Reciprocity 90 Days
+SPAIN,ASSIGNMENT,Reciprocity 90 Days
+SPAIN,Official Passport,Reciprocity 90 Days
+SPAIN,Service Passport,Reciprocity 90 Days
+MONACO,NORMAL,On Arival
+VATICAN,NORMAL,96 Hrs
+VATICAN,DIPLOMATIC,96 Hrs
+VATICAN,Service Passport,Reciprocity 90 Days
+Iceland,NORMAL,European Nationals (Schengen)
+Iceland,DIPLOMATIC,Reciprocity 90 Days
+Iceland,PRIVATE,Reciprocity 90 Days
+Iceland,ASSIGNMENT,Reciprocity 90 Days
+Iceland,Official Passport,Reciprocity 90 Days
+Iceland,Service Passport,Reciprocity 90 Days
+ANDORRA,NORMAL,On Arival
+SAN MARINO,NORMAL,European Nationals (Schengen)
+SAN MARINO,DIPLOMATIC,European Nationals (Schengen)
+SAN MARINO,Service Passport,European Nationals (Schengen)
+LIECHTENSTEIN,NORMAL,European Nationals (Schengen)
+LIECHTENSTEIN,DIPLOMATIC,Reciprocity 90 Days
+LIECHTENSTEIN,PRIVATE,Reciprocity 90 Days
+LIECHTENSTEIN,ASSIGNMENT,Reciprocity 90 Days
+LIECHTENSTEIN,Official Passport,Reciprocity 90 Days
+LIECHTENSTEIN,Service Passport,Reciprocity 90 Days
+CZECH REPUBLIC,NORMAL,European Nationals (Schengen)
+CZECH REPUBLIC,DIPLOMATIC,Reciprocity 90 Days
+CZECH REPUBLIC,PRIVATE,Reciprocity 90 Days
+CZECH REPUBLIC,ASSIGNMENT,Reciprocity 90 Days
+CZECH REPUBLIC,Official Passport,Reciprocity 90 Days
+CZECH REPUBLIC,Service Passport,Reciprocity 90 Days
+CROATIA,NORMAL,European Nationals (Schengen)
+CROATIA,DIPLOMATIC,Reciprocity 90 Days
+CROATIA,PRIVATE,Reciprocity 90 Days
+CROATIA,ASSIGNMENT,Reciprocity 90 Days
+CROATIA,Official Passport,Reciprocity 90 Days
+CROATIA,Service Passport,Reciprocity 90 Days
+SLOVAKIA,NORMAL,European Nationals (Schengen)
+SLOVAKIA,DIPLOMATIC,Reciprocity 90 Days
+SLOVAKIA,PRIVATE,Reciprocity 90 Days
+SLOVAKIA,ASSIGNMENT,Reciprocity 90 Days
+SLOVAKIA,Official Passport,Reciprocity 90 Days
+SLOVAKIA,Service Passport,Reciprocity 90 Days
+SLOVENIA,NORMAL,European Nationals (Schengen)
+SLOVENIA,DIPLOMATIC,Reciprocity 90 Days
+SLOVENIA,PRIVATE,Reciprocity 90 Days
+SLOVENIA,ASSIGNMENT,Reciprocity 90 Days
+SLOVENIA,Official Passport,Reciprocity 90 Days
+SLOVENIA,Service Passport,Reciprocity 90 Days
+LITHUANIA,NORMAL,European Nationals (Schengen)
+LITHUANIA,DIPLOMATIC,Reciprocity 90 Days
+LITHUANIA,PRIVATE,Reciprocity 90 Days
+LITHUANIA,ASSIGNMENT,Reciprocity 90 Days
+LITHUANIA,Official Passport,Reciprocity 90 Days
+LITHUANIA,Service Passport,Reciprocity 90 Days
+ESTONIA,NORMAL,European Nationals (Schengen)
+ESTONIA,DIPLOMATIC,Reciprocity 90 Days
+ESTONIA,PRIVATE,Reciprocity 90 Days
+ESTONIA,ASSIGNMENT,Reciprocity 90 Days
+ESTONIA,Official Passport,Reciprocity 90 Days
+ESTONIA,Service Passport,Reciprocity 90 Days
+LATVIA,NORMAL,European Nationals (Schengen)
+LATVIA,DIPLOMATIC,Reciprocity 90 Days
+LATVIA,PRIVATE,Reciprocity 90 Days
+LATVIA,ASSIGNMENT,Reciprocity 90 Days
+LATVIA,Official Passport,Reciprocity 90 Days
+LATVIA,Service Passport,Reciprocity 90 Days
+SERBIA,NORMAL,Reciprocity 90 Days
+SERBIA,DIPLOMATIC,Reciprocity 90 Days
+SERBIA,PRIVATE,Reciprocity 90 Days
+SERBIA,Official Passport,Reciprocity 90 Days
+BULGARIA,NORMAL,European Nationals (Schengen)
+BULGARIA,DIPLOMATIC,Reciprocity 90 Days
+BULGARIA,PRIVATE,Reciprocity 90 Days
+BULGARIA,ASSIGNMENT,Reciprocity 90 Days
+BULGARIA,Official Passport,Reciprocity 90 Days
+BULGARIA,Service Passport,Reciprocity 90 Days
+Hungary,NORMAL,European Nationals (Schengen)
+Hungary,DIPLOMATIC,Reciprocity 90 Days
+Hungary,PRIVATE,Reciprocity 90 Days
+Hungary,ASSIGNMENT,Reciprocity 90 Days
+Hungary,Official Passport,Reciprocity 90 Days
+Hungary,Service Passport,Reciprocity 90 Days
+ROMANIA,NORMAL,European Nationals (Schengen)
+ROMANIA,DIPLOMATIC,Reciprocity 90 Days
+ROMANIA,PRIVATE,Reciprocity 90 Days
+ROMANIA,ASSIGNMENT,Reciprocity 90 Days
+ROMANIA,Official Passport,Reciprocity 90 Days
+ROMANIA,Service Passport,Reciprocity 90 Days
+Poland,NORMAL,European Nationals (Schengen)
+Poland,DIPLOMATIC,Reciprocity 90 Days
+Poland,PRIVATE,Reciprocity 90 Days
+Poland,ASSIGNMENT,Reciprocity 90 Days
+Poland,Official Passport,Reciprocity 90 Days
+Poland,Service Passport,Reciprocity 90 Days
+ALBANIA,DIPLOMATIC,Reciprocity 90 Days
+ALBANIA,Service Passport,Reciprocity 90 Days
+TURKEY,DIPLOMATIC,Reciprocity 90 Days
+TURKEY,PRIVATE,Reciprocity 90 Days
+TURKEY,ASSIGNMENT,Reciprocity 90 Days
+TURKEY,Official Passport,Reciprocity 90 Days
+TURKEY,Service Passport,Reciprocity 90 Days
+RUSSIA,NORMAL,European Nationals (Schengen)
+RUSSIA,DIPLOMATIC,Reciprocity 90 Days
+RUSSIA,Service Passport,Reciprocity 90 Days
+UKRAINE,NORMAL,On Arival
+UKRAINE,DIPLOMATIC,Reciprocity 90 Days
+UKRAINE,ASSIGNMENT,Reciprocity 90 Days
+Montenegro,NORMAL,Reciprocity 90 Days
+Montenegro,DIPLOMATIC,Reciprocity 90 Days
+Montenegro,Service Passport,Reciprocity 90 Days
+Kyrgyzstan,DIPLOMATIC,Reciprocity 90 Days
+Kyrgyzstan,Official Passport,Reciprocity 90 Days
+Belarus,NORMAL,Reciprocity 90 Days
+Belarus,DIPLOMATIC,Reciprocity 90 Days
+Belarus,Official Passport,Reciprocity 90 Days
+SAINT LUCIA,DIPLOMATIC,Reciprocity 60 Days
+SAINT LUCIA,Official Passport,Reciprocity 60 Days
+CANADA,NORMAL,On Arival
+CANADA,DIPLOMATIC,Reciprocity 180 Days
+CANADA,PRIVATE,Reciprocity 180 Days
+United States of America,NORMAL,On Arival
+MEXICO,NORMAL,Reciprocity 180 Days
+MEXICO,DIPLOMATIC,Reciprocity 90 Days
+MEXICO,PRIVATE,Reciprocity 90 Days
+MEXICO,Official Passport,Reciprocity 90 Days
+BRAZIL,NORMAL,Brazil On Arrival
+BRAZIL,DIPLOMATIC,Brazil On Arrival
+BRAZIL,Official Passport,Reciprocity 90 Days
+ARGENTINA,NORMAL,Reciprocity 90 Days
+ARGENTINA,DIPLOMATIC,Reciprocity 90 Days
+ARGENTINA,Official Passport,Reciprocity 90 Days
+CHILE,NORMAL,Reciprocity 90 Days
+CHILE,DIPLOMATIC,Reciprocity 90 Days
+CHILE,PRIVATE,Reciprocity 90 Days
+CHILE,Official Passport,Reciprocity 90 Days
+COLOMBIA,NORMAL,European Nationals (Schengen)
+COLOMBIA,DIPLOMATIC,Reciprocity 90 Days
+COLOMBIA,PRIVATE,Reciprocity 90 Days
+COLOMBIA,Official Passport,Reciprocity 90 Days
+PERU,NORMAL,Reciprocity 90 Days
+PERU,DIPLOMATIC,Reciprocity 90 Days
+PERU,PRIVATE,Reciprocity 90 Days
+BAHAMAS,NORMAL,Reciprocity 90 Days
+BAHAMAS,DIPLOMATIC,Reciprocity 90 Days
+BAHAMAS,Official Passport,Reciprocity 90 Days
+CUBA,DIPLOMATIC,Reciprocity 90 Days
+CUBA,Official Passport,Reciprocity 90 Days
+CUBA,Service Passport,Reciprocity 90 Days
+COSTA RICA,NORMAL,Reciprocity 90 Days
+COSTA RICA,DIPLOMATIC,Reciprocity 90 Days
+COSTA RICA,ASSIGNMENT,Reciprocity 90 Days
+COSTA RICA,Service Passport,Reciprocity 90 Days
+Jamaica,DIPLOMATIC,Reciprocity 90 Days
+Jamaica,Official Passport,Reciprocity 90 Days
+EL SALVADOR,NORMAL,Reciprocity 90 Days
+EL SALVADOR,DIPLOMATIC,Reciprocity 90 Days
+EL SALVADOR,Official Passport,Reciprocity 90 Days
+COMMONWEALTH OF DOMINICA,DIPLOMATIC,Reciprocity 30 Days
+COMMONWEALTH OF DOMINICA,Official Passport,Reciprocity 30 Days
+URUGUAY,NORMAL,Reciprocity 90 Days
+URUGUAY,DIPLOMATIC,Reciprocity 90 Days
+URUGUAY,Official Passport,Reciprocity 90 Days
+Paraguay,NORMAL,Reciprocity 90 Days
+Paraguay,DIPLOMATIC,Reciprocity 90 Days
+HONDURAS,NORMAL,Reciprocity 90 Days
+HONDURAS,DIPLOMATIC,Reciprocity 90 Days
+HONDURAS,Official Passport,96 Hrs
+GRENADA,DIPLOMATIC,Reciprocity 90 Days
+GRENADA,Service Passport,96 Hrs
+SURINAME,DIPLOMATIC,Reciprocity 90 Days
+SURINAME,Service Passport,Reciprocity 90 Days
+BARBADOS,NORMAL,Reciprocity 90 Days
+BARBADOS,DIPLOMATIC,Reciprocity 90 Days
+BARBADOS,Official Passport,Reciprocity 90 Days
+SAINT VINSENT,NORMAL,Reciprocity 90 Days
+SAINT VINSENT,DIPLOMATIC,Reciprocity 90 Days
+SAINT VINSENT,Official Passport,Reciprocity 90 Days
+,NORMAL,96 Hrs
+,DIPLOMATIC,96 Hrs
+AUSTRALIA,NORMAL,On Arival
+New Zealand,NORMAL,On Arival
+New Zealand,DIPLOMATIC,Reciprocity 90 Days
+New Zealand,PRIVATE,Reciprocity 90 Days
+New Zealand,ASSIGNMENT,Reciprocity 90 Days
+New Zealand,Official Passport,Reciprocity 90 Days
+New Zealand,Service Passport,Reciprocity 90 Days
+SOLOMON ISLAND,NORMAL,Reciprocity 90 Days
+SOLOMON ISLAND,DIPLOMATIC,Reciprocity 90 Days
+SOLOMON ISLAND,Official Passport,Reciprocity 90 Days
+VANUATU,DIPLOMATIC,Reciprocity 90 Days
+VANUATU,Official Passport,Reciprocity 90 Days
+REPUBLIC OF NAURU,NORMAL,Reciprocity 90 Days
+REPUBLIC OF NAURU,DIPLOMATIC,Reciprocity 90 Days
+REPUBLIC OF NAURU,Official Passport,Reciprocity 90 Days
+Equatorial Guinea,DIPLOMATIC,Reciprocity 90 Days
+Equatorial Guinea,Service Passport,Reciprocity 90 Days

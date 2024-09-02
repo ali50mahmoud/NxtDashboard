@@ -1,0 +1,163 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-05-10T14:42:43.826Z",
+    "end": "2023-05-10T14:43:43.046Z",
+    "duration": 59220,
+    "testsRegistered": 4,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "1398dd00-b9a6-4f30-9b19-24ed990b8546",
+      "title": "",
+      "fullFile": "cypress\\integration\\feature\\SummaryScreen.feature",
+      "file": "cypress\\integration\\feature\\SummaryScreen.feature",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "2dc8316e-430b-4247-9c21-929b83522cfb",
+          "title": "Summary Screen",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "Mark travel from investigate screen for GCC local with privilege to bypass yellow business rules blacklist suspected",
+              "fullTitle": "Summary Screen Mark travel from investigate screen for GCC local with privilege to bypass yellow business rules blacklist suspected",
+              "timedOut": null,
+              "duration": 11258,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "82db9e32-1726-42ba-a52e-87e640800d4e",
+              "parentUUID": "2dc8316e-430b-4247-9c21-929b83522cfb",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "GCC Summary screen no Travel Document find",
+              "fullTitle": "Summary Screen GCC Summary screen no Travel Document find",
+              "timedOut": null,
+              "duration": 7897,
+              "state": "passed",
+              "speed": "medium",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "929700b9-98a5-4998-a097-cbb4a8aaa75d",
+              "parentUUID": "2dc8316e-430b-4247-9c21-929b83522cfb",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "GCC Summary screen no Travel Document find is displayed in Red Consistency check with less than the thresold 80%",
+              "fullTitle": "Summary Screen GCC Summary screen no Travel Document find is displayed in Red Consistency check with less than the thresold 80%",
+              "timedOut": null,
+              "duration": 17710,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "2e3e60d1-9e7c-4708-834c-6d6e1f394271",
+              "parentUUID": "2dc8316e-430b-4247-9c21-929b83522cfb",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "GCC scan Summary screen Consistency check with more than the thresold 100%",
+              "fullTitle": "Summary Screen GCC scan Summary screen Consistency check with more than the thresold 100%",
+              "timedOut": null,
+              "duration": 19142,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "3b72a58e-2b90-488e-aaaf-75ad8256c385",
+              "parentUUID": "2dc8316e-430b-4247-9c21-929b83522cfb",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "82db9e32-1726-42ba-a52e-87e640800d4e",
+            "929700b9-98a5-4998-a097-cbb4a8aaa75d",
+            "2e3e60d1-9e7c-4708-834c-6d6e1f394271",
+            "3b72a58e-2b90-488e-aaaf-75ad8256c385"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 56007,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "reportDir": "cypress/reports/mochawesome-report",
+        "overwrite": true,
+        "html": true,
+        "json": true,
+        "timestamp": "mmddyyyy_HHMMss"
+      },
+      "version": "6.2.0"
+    }
+  }
+}

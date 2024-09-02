@@ -1,0 +1,51 @@
+nationality,passportType,visaType
+ISRAEL,NORMAL,European Nationals (Schengen)
+ISRAEL,DIPLOMATIC,European Nationals (Schengen)
+ISRAEL,Service Passport,European Nationals (Schengen)
+BURUNDI,DIPLOMATIC,96 Hrs
+CAMEROON,DIPLOMATIC,Reciprocity 30 Days
+CAMEROON,Service Passport,Reciprocity 30 Days
+CHAD,DIPLOMATIC,Reciprocity 90 Days
+Congo,DIPLOMATIC,Reciprocity 30 Days
+Congo,Service Passport,96 Hrs
+ETHIOPIA,DIPLOMATIC,Reciprocity 90 Days
+GHANA,DIPLOMATIC,Reciprocity 90 Days
+GHANA,Service Passport,Reciprocity 90 Days
+Republic of Guinea,DIPLOMATIC,Reciprocity 90 Days
+LIBERIA,DIPLOMATIC,Reciprocity 30 Days
+MALI,DIPLOMATIC,Reciprocity 90 Days
+MALI,ASSIGNMENT,Reciprocity 90 Days
+NIGER,DIPLOMATIC,Reciprocity 30 Days
+RWANDA,DIPLOMATIC,Reciprocity 90 Days
+RWANDA,Service Passport,Reciprocity 90 Days
+SENEGAL,DIPLOMATIC,Reciprocity 90 Days
+SIERRA LEONE,DIPLOMATIC,Reciprocity 30 Days
+Burkina Faso,DIPLOMATIC,Reciprocity 90 Days
+Burkina Faso,Service Passport,Reciprocity 90 Days
+ZAMBIA,DIPLOMATIC,Reciprocity 30 Days
+Democratic Republic of the Congo,DIPLOMATIC,96 Hrs
+CENTRAL AFRICAN REPUBLIC,DIPLOMATIC,Reciprocity 90 Days
+CENTRAL AFRICAN REPUBLIC,Service Passport,Reciprocity 90 Days
+MAURITIUS,NORMAL,On Arrival Mauritius
+MAURITIUS,DIPLOMATIC,Reciprocity 90 Days
+GABON,DIPLOMATIC,Reciprocity 90 Days
+GABON,Service Passport,Reciprocity 90 Days
+SEYCHELLES,NORMAL,Seychelles Citizens Visa
+SEYCHELLES,DIPLOMATIC,Seychelles Citizens Visa
+SEYCHELLES,Official Passport,Seychelles Citizens Visa
+SEYCHELLES,Service Passport,Seychelles Citizens Visa
+KIRIBATI,NORMAL,Reciprocity 90 Days
+KIRIBATI,DIPLOMATIC,Reciprocity 90 Days
+KIRIBATI,Official Passport,Reciprocity 90 Days
+BRITAIN,NORMAL,On Arival
+BRITAIN,DIPLOMATIC,Reciprocity 90 Days
+BRITAIN,PRIVATE,Reciprocity 90 Days
+BRITAIN,Official Passport,Reciprocity 90 Days
+FRANCE,NORMAL,European Nationals (Schengen)
+FRANCE,DIPLOMATIC,Reciprocity 90 Days
+FRANCE,PRIVATE,Reciprocity 90 Days
+FRANCE,ASSIGNMENT,Reciprocity 90 Days
+FRANCE,Official Passport,Reciprocity 90 Days
+FRANCE,Service Passport,Reciprocity 90 Days
+ITALY,NORMAL,European Nationals (Schengen)
+ITALY,DIPLOMATIC,Reciprocity 90 Days

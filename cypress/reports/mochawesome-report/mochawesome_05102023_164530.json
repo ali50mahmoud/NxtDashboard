@@ -1,0 +1,182 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-05-10T14:44:06.646Z",
+    "end": "2023-05-10T14:45:30.777Z",
+    "duration": 84131,
+    "testsRegistered": 5,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "08161b28-3272-4760-9828-51cf7db4f9d6",
+      "title": "",
+      "fullFile": "cypress\\integration\\feature\\vistor.feature",
+      "file": "cypress\\integration\\feature\\vistor.feature",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "f9c7c784-99a5-450d-b3c7-f1bb49fab41c",
+          "title": "Visitor",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "Search english visitor profile by UDB and mark travel",
+              "fullTitle": "Visitor Search english visitor profile by UDB and mark travel",
+              "timedOut": null,
+              "duration": 17645,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "a6e13637-9dc2-4ad0-b4dc-e177aeaa4b5a",
+              "parentUUID": "f9c7c784-99a5-450d-b3c7-f1bb49fab41c",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Create Vistor Profile",
+              "fullTitle": "Visitor Create Vistor Profile",
+              "timedOut": null,
+              "duration": 9261,
+              "state": "passed",
+              "speed": "medium",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "fa6589be-0948-4557-813e-831deaf72cde",
+              "parentUUID": "f9c7c784-99a5-450d-b3c7-f1bb49fab41c",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Search english visitor profile by Passport Number and mark travel",
+              "fullTitle": "Visitor Search english visitor profile by Passport Number and mark travel",
+              "timedOut": null,
+              "duration": 17442,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "6d6cb1ac-5ea9-490e-a7b8-dc70d8d5a4b4",
+              "parentUUID": "f9c7c784-99a5-450d-b3c7-f1bb49fab41c",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Search english visitor profile by permit Number and mark travel",
+              "fullTitle": "Visitor Search english visitor profile by permit Number and mark travel",
+              "timedOut": null,
+              "duration": 18202,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "9c98bccc-fb79-4118-ae78-d18ffd496c12",
+              "parentUUID": "f9c7c784-99a5-450d-b3c7-f1bb49fab41c",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Search visitor profile and validate blacklitst rule",
+              "fullTitle": "Visitor Search visitor profile and validate blacklitst rule",
+              "timedOut": null,
+              "duration": 18139,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "const state = window.testState;\nreturn cy\n  .then(() => state.onStartScenario(scenario, indexedSteps))\n  .then(() =>\n    resolveAndRunBeforeHooks.call(this, scenario.tags, state.feature.name)\n  )\n  .then(() =>\n    indexedSteps.forEach((step) =>\n      stepTest.call(this, state, step, rowData)\n    )\n  )\n  .then(() => state.onFinishScenario(scenario));",
+              "err": {},
+              "uuid": "dcd75126-0291-4d74-a581-3d034917f9c7",
+              "parentUUID": "f9c7c784-99a5-450d-b3c7-f1bb49fab41c",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "a6e13637-9dc2-4ad0-b4dc-e177aeaa4b5a",
+            "fa6589be-0948-4557-813e-831deaf72cde",
+            "6d6cb1ac-5ea9-490e-a7b8-dc70d8d5a4b4",
+            "9c98bccc-fb79-4118-ae78-d18ffd496c12",
+            "dcd75126-0291-4d74-a581-3d034917f9c7"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 80689,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "reportDir": "cypress/reports/mochawesome-report",
+        "overwrite": true,
+        "html": true,
+        "json": true,
+        "timestamp": "mmddyyyy_HHMMss"
+      },
+      "version": "6.2.0"
+    }
+  }
+}

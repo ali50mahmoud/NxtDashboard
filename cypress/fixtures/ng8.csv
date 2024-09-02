@@ -1,0 +1,51 @@
+nationality,passportType,visaType
+Montenegro,NORMAL,Reciprocity 90 Days
+Montenegro,DIPLOMATIC,Reciprocity 90 Days
+Montenegro,Service Passport,Reciprocity 90 Days
+Kyrgyzstan,DIPLOMATIC,Reciprocity 90 Days
+Kyrgyzstan,Official Passport,Reciprocity 90 Days
+Belarus,NORMAL,Reciprocity 90 Days
+Belarus,DIPLOMATIC,Reciprocity 90 Days
+Belarus,Official Passport,Reciprocity 90 Days
+SAINT LUCIA,DIPLOMATIC,Reciprocity 60 Days
+SAINT LUCIA,Official Passport,Reciprocity 60 Days
+CANADA,NORMAL,On Arival
+CANADA,DIPLOMATIC,Reciprocity 180 Days
+CANADA,PRIVATE,Reciprocity 180 Days
+United States of America,NORMAL,On Arival
+MEXICO,NORMAL,Reciprocity 180 Days
+MEXICO,DIPLOMATIC,Reciprocity 90 Days
+MEXICO,PRIVATE,Reciprocity 90 Days
+MEXICO,Official Passport,Reciprocity 90 Days
+BRAZIL,NORMAL,Brazil On Arrival
+BRAZIL,DIPLOMATIC,Brazil On Arrival
+BRAZIL,Official Passport,Reciprocity 90 Days
+ARGENTINA,NORMAL,Reciprocity 90 Days
+ARGENTINA,DIPLOMATIC,Reciprocity 90 Days
+ARGENTINA,Official Passport,Reciprocity 90 Days
+CHILE,NORMAL,Reciprocity 90 Days
+CHILE,DIPLOMATIC,Reciprocity 90 Days
+CHILE,PRIVATE,Reciprocity 90 Days
+CHILE,Official Passport,Reciprocity 90 Days
+COLOMBIA,NORMAL,European Nationals (Schengen)
+COLOMBIA,DIPLOMATIC,Reciprocity 90 Days
+COLOMBIA,PRIVATE,Reciprocity 90 Days
+COLOMBIA,Official Passport,Reciprocity 90 Days
+PERU,NORMAL,Reciprocity 90 Days
+PERU,DIPLOMATIC,Reciprocity 90 Days
+PERU,PRIVATE,Reciprocity 90 Days
+BAHAMAS,NORMAL,Reciprocity 90 Days
+BAHAMAS,DIPLOMATIC,Reciprocity 90 Days
+BAHAMAS,Official Passport,Reciprocity 90 Days
+CUBA,DIPLOMATIC,Reciprocity 90 Days
+CUBA,Official Passport,Reciprocity 90 Days
+CUBA,Service Passport,Reciprocity 90 Days
+COSTA RICA,NORMAL,Reciprocity 90 Days
+COSTA RICA,DIPLOMATIC,Reciprocity 90 Days
+COSTA RICA,ASSIGNMENT,Reciprocity 90 Days
+COSTA RICA,Service Passport,Reciprocity 90 Days
+Jamaica,DIPLOMATIC,Reciprocity 90 Days
+Jamaica,Official Passport,Reciprocity 90 Days
+EL SALVADOR,NORMAL,Reciprocity 90 Days
+EL SALVADOR,DIPLOMATIC,Reciprocity 90 Days
+EL SALVADOR,Official Passport,Reciprocity 90 Days
